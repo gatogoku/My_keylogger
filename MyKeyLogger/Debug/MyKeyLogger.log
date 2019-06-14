@@ -1,0 +1,5 @@
+﻿  MyKeyLogger.cpp
+C:\Users\aquintana\source\repos\MyKeyLogger\MyKeyLogger\MyKeyLogger.cpp(11): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\aquintana\source\repos\MyKeyLogger\MyKeyLogger\MyKeyLogger.cpp(11): warning C4305: 'inicializando': truncamiento de 'int' a 'char'
+C:\Users\aquintana\source\repos\MyKeyLogger\MyKeyLogger\MyKeyLogger.cpp(11): warning C4309: 'inicializando': truncamiento de valor constante
+  MyKeyLogger.vcxproj -> C:\Users\aquintana\source\repos\MyKeyLogger\Debug\MyKeyLogger.exe
